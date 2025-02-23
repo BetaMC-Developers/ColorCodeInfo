@@ -1,0 +1,9 @@
+name: ColorCodeInfo
+main: org.betamc.colorcodeinfo.ColorCodeInfo
+version: 1.0
+
+commands:
+  colorcodes:
+    description: A command to show all color codes
+    usage: /<command>
+    aliases: [cc, colorcodeinfo, colorcode]
